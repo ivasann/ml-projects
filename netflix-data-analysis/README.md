@@ -36,9 +36,9 @@ This project explores the Netflix dataset to uncover trends and patterns in cont
 - ✅ Data loading & first look
 - ✅ Handling missing values
 - ✅ Data cleaning & formatting
-- ⬜ Exploratory Data Analysis (EDA)
-- ⬜ Visualisations
-- ⬜ Insights & conclusions
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Visualisations
+- ✅ Insights & conclusions
 
 ---
 
@@ -82,10 +82,4 @@ netflix-data-analysis/
 
 ---
 
-## 👤 Author
-
-**ivasann** — [GitHub Profile](https://github.com/ivasann)
-
----
-
-> 🔄 *Project in progress — EDA and visualisations coming soon!*
+> ✅ *Project Complete*
