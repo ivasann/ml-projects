@@ -4,7 +4,6 @@ Practical machine learning projects built from scratch using Python, scikit-lear
 
 ## Included Projects
 
-* Deep Learning
 * Netflix Data Analysis
 
 ## Stack
